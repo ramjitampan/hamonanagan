@@ -1,0 +1,35 @@
+vr x = 10
+vr y = 5
+vr s = "Halo Medan!"
+vr b = benar
+vr arr = [1,2,3,4,5]
+
+apakandulu(x)
+apakandulu(y)
+apakandulu(s)
+apakandulu(b)
+apakandulu(arr)
+
+x + 20
+x - 5
+x * 2
+x / 5
+
+# Percobaan conditional (placeholder)
+jika (x > 10)
+    apakandulu(s)
+else
+    apakandulu("X masih kecil lah")
+
+# Percobaan loop (placeholder)
+selama (x < 50)
+    x + 10
+ulangi (y > 0)
+    y - 1
+
+# Fungsi sederhana (placeholder)
+fungsi tambah(a,b)
+    kembali a + b
+
+apakandulu(x)
+apakandulu(y)
